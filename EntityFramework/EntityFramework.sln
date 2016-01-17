@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAOClassWithCRUDOperations", "DAOClassWithCRUDOperations\DAOClassWithCRUDOperations.csproj", "{0EA28C4E-200E-4015-97E6-451587C18AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDbContextForNorthwindDB", "CreateDbContextForNorthwindDB\CreateDbContextForNorthwindDB.csproj", "{0EE9B11E-29A6-4D7B-BCA6-6B94B5ECEC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAditionalMethods", "CustomerAditionalMethods\CustomerAditionalMethods.csproj", "{72C2C4DC-F810-4E89-8544-8F95B42EB4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentChangesIssues", "ConcurrentChangesIssues\ConcurrentChangesIssues.csproj", "{FB8121F3-D9EB-4104-976B-D0AC11F67659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA28C4E-200E-4015-97E6-451587C18AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA28C4E-200E-4015-97E6-451587C18AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA28C4E-200E-4015-97E6-451587C18AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA28C4E-200E-4015-97E6-451587C18AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE9B11E-29A6-4D7B-BCA6-6B94B5ECEC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE9B11E-29A6-4D7B-BCA6-6B94B5ECEC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE9B11E-29A6-4D7B-BCA6-6B94B5ECEC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE9B11E-29A6-4D7B-BCA6-6B94B5ECEC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C2C4DC-F810-4E89-8544-8F95B42EB4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C2C4DC-F810-4E89-8544-8F95B42EB4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C2C4DC-F810-4E89-8544-8F95B42EB4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C2C4DC-F810-4E89-8544-8F95B42EB4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8121F3-D9EB-4104-976B-D0AC11F67659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8121F3-D9EB-4104-976B-D0AC11F67659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8121F3-D9EB-4104-976B-D0AC11F67659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8121F3-D9EB-4104-976B-D0AC11F67659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

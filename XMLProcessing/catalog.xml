@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<albums>
+    <album>
+        <name>No mercy</name>
+        <artist>Slavi Trifonov</artist>
+        <year>2009</year>
+        <producer>Seven-Eight Productions</producer>
+        <price>15</price>
+        <songs>
+            <title>Zavinagi</title>
+            <duration>3.26</duration>
+            <title>Bubolechka</title>
+            <duration>4.33</duration>
+            <title>Makedonsko devoiche</title>
+            <duration>3.50</duration>
+        </songs>
+    </album>
+
+    <album>
+        <name>Best songs</name>
+        <artist>Rickey Martin</artist>
+        <year>2002</year>
+        <producer>Shady Records</producer>
+        <price>35</price>
+        <songs>
+            <title>Without Me</title>
+            <duration>3.45</duration>
+            <title>Superman</title>
+            <duration>3.23</duration>
+            <title>White America</title>
+            <duration>4.01</duration>
+        </songs>
+    </album>
+	
+	<album>
+        <name>Relapse</name>
+        <artist>Rickey Martin</artist>
+        <year>2010</year>
+        <producer>Web Entertainment</producer>
+        <price>25</price>
+        <songs>
+            <title>Underground</title>
+            <duration>4.15</duration>
+            <title>We Made You</title>
+            <duration>5.17</duration>
+            <title>Beautiful</title>
+            <duration>3.49</duration>
+        </songs>
+    </album>
+
+    <album>
+        <name>Dangerously in Love</name>
+        <artist>Beyonce</artist>
+        <year>2003</year>
+        <producer>Columbia Records</producer>
+        <price>30</price>
+        <songs>
+            <title>Crazy in Love</title>
+            <duration>4.48</duration>
+            <title>Naughty Girl</title>
+            <duration>3.29</duration>
+            <title>Baby Boy</title>
+            <duration>4.53</duration>
+        </songs>
+    </album>
+	
+	<album>
+        <name>I Am Sasha Fierce</name>
+        <artist>Beyonce</artist>
+        <year>2008</year>
+        <producer> Music World Entertainment</producer>
+        <price>23</price>
+        <songs>
+            <title>If I Were a Boy</title>
+            <duration>3.14</duration>
+            <title>Halo</title>
+            <duration>3.19</duration>
+            <title>Disappear</title>
+            <duration>3.02</duration>
+        </songs>
+    </album>
+</albums> 

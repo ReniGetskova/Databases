@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<students xmlns:student="urn:students">
+    <student>
+        <name>Maria Petrova</name>
+        <sex>Female</sex>
+        <birthDate>08.03.1990</birthDate>
+        <phone>+359883256412</phone>
+        <email>maria.petrova@gmail.com</email>
+        <course>2</course>
+        <specialty>Information Systems</specialty>
+        <facultyNumber>71246</facultyNumber>
+        <exams>
+            <exam>
+                <name>Databases</name>
+                <tutor>Nikolay Kostov</tutor>
+                <score>6</score>
+            </exam>
+            <exam>
+                <name>Hight Quality Code</name>
+                <tutor>Ivaylo Kenov</tutor>
+                <score>5</score>
+            </exam>
+        </exams>
+    </student>
+
+    <student>
+        <name>Petur Marinov</name>
+        <sex>Male</sex>
+        <birthDate>02.02.1991</birthDate>
+        <phone>+359883257859</phone>
+        <email>petur.marinov@gmail.com</email>
+        <course>3</course>
+        <specialty>Computer Science</specialty>
+        <facultyNumber>24851</facultyNumber>
+        <exams>
+            <exam>
+                <name>JavaScript Applications</name>
+                <tutor>Doncho Minkov</tutor>
+                <score>4</score>
+            </exam>
+            <exam>
+                <name>JavaScript Fundamentals</name>
+                <tutor>Evlogi Hristov</tutor>
+                <score>3</score>
+            </exam>
+        </exams>
+    </student>
+</students>  

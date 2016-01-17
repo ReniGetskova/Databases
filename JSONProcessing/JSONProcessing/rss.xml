@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <id>yt:channel:UCLC-vbm7OWvpbqzXaoAMGGw</id>
+ <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+ <title>TelerikAcademy</title>
+ <link rel="alternate" href="http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <author>
+  <name>TelerikAcademy</name>
+  <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+ </author>
+ <published>2011-06-24T15:53:13+00:00</published>
+ <entry>
+  <id>yt:video:ccdczax7W8w</id>
+  <yt:videoId>ccdczax7W8w</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Web Sites with XHTML and CSS</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=ccdczax7W8w"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T17:41:47+00:00</published>
+  <updated>2016-01-15T10:31:22+00:00</updated>
+  <media:group>
+   <media:title>Web Sites with XHTML and CSS</media:title>
+   <media:content url="https://www.youtube.com/v/ccdczax7W8w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ccdczax7W8w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Web Sites with XHTML and CSS
+Курс: Slice and Dice
+Лектор: Иван Жеков
+Дата: декември 2015
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="128"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:N1LdLnT_Vrw</id>
+  <yt:videoId>N1LdLnT_Vrw</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Мобилно тестване - Аndroid демо</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=N1LdLnT_Vrw"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T13:31:47+00:00</published>
+  <updated>2016-01-14T13:31:47+00:00</updated>
+  <media:group>
+   <media:title>Мобилно тестване - Аndroid демо</media:title>
+   <media:content url="https://www.youtube.com/v/N1LdLnT_Vrw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/N1LdLnT_Vrw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Мобилно тестване - Аndroid демо
+Курс: Осигуряване качеството на софтуера 2015
+Лектор: Димитър Топузов
+Дата: 13 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="47"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1Vc8K_2nQQU</id>
+  <yt:videoId>1Vc8K_2nQQU</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Мобилно тестване - iOS демо</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=1Vc8K_2nQQU"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T13:28:29+00:00</published>
+  <updated>2016-01-14T13:28:29+00:00</updated>
+  <media:group>
+   <media:title>Мобилно тестване - iOS демо</media:title>
+   <media:content url="https://www.youtube.com/v/1Vc8K_2nQQU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1Vc8K_2nQQU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Мобилно тестване - iOS демо
+Курс: Осигуряване качеството на софтуера 2015
+Лектор: Мирослава Иванова
+Дата: 13 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aqg19q6Xffw</id>
+  <yt:videoId>aqg19q6Xffw</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Мобилно тестване</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=aqg19q6Xffw"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T13:28:29+00:00</published>
+  <updated>2016-01-14T13:28:29+00:00</updated>
+  <media:group>
+   <media:title>Мобилно тестване</media:title>
+   <media:content url="https://www.youtube.com/v/aqg19q6Xffw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aqg19q6Xffw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Мобилно тестване
+Курс: Осигуряване качеството на софтуера 2015
+Лектор: Мирослава Иванова и Димитър Топузов
+Дата: 13 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="30"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6C6Dsembu_k</id>
+  <yt:videoId>6C6Dsembu_k</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Workshop: Създаване на уеб приложение с Node.js, ExpressJS и Jade</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=6C6Dsembu_k"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T11:58:09+00:00</published>
+  <updated>2016-01-14T15:32:23+00:00</updated>
+  <media:group>
+   <media:title>Workshop: Създаване на уеб приложение с Node.js, ExpressJS и Jade</media:title>
+   <media:content url="https://www.youtube.com/v/6C6Dsembu_k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6C6Dsembu_k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Workshop: Създаване на уеб приложение с Node.js, ExpressJS и Jade 
+Курс: End-to-end приложения 2016
+Лектор: Дончо Минков
+Дата: 12 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="108"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hVioLnbl_8o</id>
+  <yt:videoId>hVioLnbl_8o</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Подготовка за изпит - Част 1</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=hVioLnbl_8o"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T06:30:28+00:00</published>
+  <updated>2016-01-14T06:30:28+00:00</updated>
+  <media:group>
+   <media:title>Подготовка за изпит - Част 1</media:title>
+   <media:content url="https://www.youtube.com/v/hVioLnbl_8o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hVioLnbl_8o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Подготовка за изпит - Част 1
+Курс: End-to-end Applications 2016
+Лектор: Ивайло Кенов
+Дата: 13 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="368"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gajan7ZI05Q</id>
+  <yt:videoId>gajan7ZI05Q</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Подготовка за изпит - Част 2</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=gajan7ZI05Q"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-14T06:27:32+00:00</published>
+  <updated>2016-01-14T10:20:59+00:00</updated>
+  <media:group>
+   <media:title>Подготовка за изпит - Част 2</media:title>
+   <media:content url="https://www.youtube.com/v/gajan7ZI05Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gajan7ZI05Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Подготовка за изпит - Част 2
+Курс: End-to-end Applications 2016
+Лектор: Ивайло Кенов
+Дата: 13 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="233"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Q5NMv74GCCU</id>
+  <yt:videoId>Q5NMv74GCCU</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Автоматизирано тестване със Sikuli</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=Q5NMv74GCCU"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-13T08:17:11+00:00</published>
+  <updated>2016-01-13T16:06:38+00:00</updated>
+  <media:group>
+   <media:title>Автоматизирано тестване със Sikuli</media:title>
+   <media:content url="https://www.youtube.com/v/Q5NMv74GCCU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Q5NMv74GCCU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Автоматизирано тестване със Sikuli 
+Курс: Осигуряване качеството на софтуера 2015
+Лектор: Невен Динев
+Дата: 12 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="96"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:i6RNa8fF4GU</id>
+  <yt:videoId>i6RNa8fF4GU</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Multi-threading - AsynkTask</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=i6RNa8fF4GU"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-13T07:36:55+00:00</published>
+  <updated>2016-01-15T06:03:47+00:00</updated>
+  <media:group>
+   <media:title>Multi-threading - AsynkTask</media:title>
+   <media:content url="https://www.youtube.com/v/i6RNa8fF4GU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/i6RNa8fF4GU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Multi-threading - AsynkTask
+Курс: Мобилни приложения за Android
+Лектор: Пламен Петков
+Дата: 12 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="91"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZPvnpNxNT6c</id>
+  <yt:videoId>ZPvnpNxNT6c</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Telerik Backend Services</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=ZPvnpNxNT6c"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-13T07:35:13+00:00</published>
+  <updated>2016-01-13T07:35:13+00:00</updated>
+  <media:group>
+   <media:title>Telerik Backend Services</media:title>
+   <media:content url="https://www.youtube.com/v/ZPvnpNxNT6c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZPvnpNxNT6c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Telerik Backend Services
+Курс: Мобилни приложения за Android
+Лектор: Пламен Петков
+Дата: 12 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="69"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Df4Uql6RBEA</id>
+  <yt:videoId>Df4Uql6RBEA</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Работа с данни</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=Df4Uql6RBEA"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-12T20:54:43+00:00</published>
+  <updated>2016-01-12T20:54:43+00:00</updated>
+  <media:group>
+   <media:title>Работа с данни</media:title>
+   <media:content url="https://www.youtube.com/v/Df4Uql6RBEA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Df4Uql6RBEA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Работа с данни
+Курс: Мобилни приложения за Android
+Лектор: Евлоги Христов
+Дата: 12 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="130"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5LkdfmdCv6M</id>
+  <yt:videoId>5LkdfmdCv6M</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Mongo и Mongoose в Node.js</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=5LkdfmdCv6M"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-12T17:02:30+00:00</published>
+  <updated>2016-01-15T08:09:36+00:00</updated>
+  <media:group>
+   <media:title>Mongo и Mongoose в Node.js</media:title>
+   <media:content url="https://www.youtube.com/v/5LkdfmdCv6M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5LkdfmdCv6M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Node.js View Engines
+Курс: End-to-end Applications 2016
+Лектор: Васил Динински
+Дата: 6 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="156"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KyektrT6jJE</id>
+  <yt:videoId>KyektrT6jJE</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Node.js View Engines</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=KyektrT6jJE"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-12T16:27:06+00:00</published>
+  <updated>2016-01-15T08:47:23+00:00</updated>
+  <media:group>
+   <media:title>Node.js View Engines</media:title>
+   <media:content url="https://www.youtube.com/v/KyektrT6jJE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KyektrT6jJE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Node.js View Engines
+Курс: End-to-end Applications 2016
+Лектор: Васил Динински
+Дата: 6 януари 2016
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="110"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SXr5yZy8fSo</id>
+  <yt:videoId>SXr5yZy8fSo</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>expressjs</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=SXr5yZy8fSo"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-12T15:07:23+00:00</published>
+  <updated>2016-01-13T22:13:44+00:00</updated>
+  <media:group>
+   <media:title>expressjs</media:title>
+   <media:content url="https://www.youtube.com/v/SXr5yZy8fSo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SXr5yZy8fSo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="122"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zv5w-9VL4ds</id>
+  <yt:videoId>zv5w-9VL4ds</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>express mongo mvc workshop</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=zv5w-9VL4ds"/>
+  <author>
+   <name>TelerikAcademy</name>
+   <uri>http://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2016-01-12T15:07:19+00:00</published>
+  <updated>2016-01-14T11:54:43+00:00</updated>
+  <media:group>
+   <media:title>express mongo mvc workshop</media:title>
+   <media:content url="https://www.youtube.com/v/zv5w-9VL4ds?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zv5w-9VL4ds/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт на Академията на Телерик: http://academy.telerik.com
+
+Следете за предстоящи безплатни обучения на Академията на Телерик във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="140"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

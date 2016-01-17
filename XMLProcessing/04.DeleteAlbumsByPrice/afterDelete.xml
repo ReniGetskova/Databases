@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>No mercy</name>
+    <artist>Slavi Trifonov</artist>
+    <year>2008</year>
+    <producer>Seven-Eight Productions</producer>
+    <price>15</price>
+    <songs>
+      <title>Zavinagi</title>
+      <duration>3.26</duration>
+      <title>Bubolechka</title>
+      <duration>4.33</duration>
+      <title>Makedonsko devoiche</title>
+      <duration>3.50</duration>
+    </songs>
+  </album>
+</albums>
